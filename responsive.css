@@ -1,0 +1,19 @@
+@media screen and (min-width: 991px) and (min-width: 1300px) {
+    .restaurant-home {
+        width: 50vw;
+        height: 20vh;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 28vh
+    }
+
+    .restaurant-home-title {
+        font-size: 7em;
+        font-weight: 200;
+    }
+
+    .restaurant-home-description {
+        font-size: 1.8em;
+        font-weight: 200;
+    }
+}
