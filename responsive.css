@@ -93,6 +93,10 @@
         font-size: 5em;
     }
 
+    .restaurant-menu-title {
+        font-size: 5em;
+    }
+
     .recipe {
         width: 35vw;
         margin: 0 auto;
@@ -143,5 +147,25 @@
     .footer-nav-item {
         width: 15vw;
         padding-top: 0%;
+    }
+
+    .further-informations {
+        padding-top: 3%;
+        padding-bottom: 3%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .further-informations-copyright {
+        margin-bottom: 0;
+    }
+
+    .further-informations-links {
+        margin-bottom: 0;
+    }
+
+    .further-informations-socialmedias {
+        width: 20%;
     }
 }
