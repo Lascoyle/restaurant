@@ -82,10 +82,11 @@
     #restaurant-about {
         flex-direction: row;
         align-items: center;
+        height: 70vh;
     }
 
     #restaurant-signature {
-        height: 100vh;
+        height: 60vh;
     }
 
     .restaurant-signature-title {
@@ -107,6 +108,31 @@
         margin-top: 0%;
     }
 
+    .general-informations {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        padding: 5%;
+        padding-left: 10%;
+    }
+
+    .restaurant-info {
+        width: 20vw
+    }
+
+    .footer-nav-items {
+        width: 60vw;
+        margin: none;
+    }
+
+    .footer-nav-subitem, .footer-nav-item-title {
+        width: 15vw;
+    }
+
+    .footer-nav {
+        display: flex; 
+        align-items: center;
+    }
 
     .footer-nav-items {
         display: flex;
@@ -115,7 +141,7 @@
     }
 
     .footer-nav-item {
-        padding-top: 10%;
-        width: 20vw;
+        width: 15vw;
+        padding-top: 0%;
     }
 }

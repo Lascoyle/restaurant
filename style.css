@@ -216,6 +216,11 @@ body {
 .restaurant-info {
     width: 80vw;
     margin: 0 auto;
+    text-align: left;
+}
+
+.restaurant-info-description {
+    padding-top: 6%;
 }
 
 .footer-nav {
