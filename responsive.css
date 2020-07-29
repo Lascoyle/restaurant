@@ -82,11 +82,10 @@
     #restaurant-about {
         flex-direction: row;
         align-items: center;
-        height: 50vh;
     }
 
     #restaurant-signature {
-        height: 35vh;
+        height: 100vh;
     }
 
     .restaurant-signature-title {
@@ -107,7 +106,6 @@
     #restaurant-portfolio {
         margin-top: 0%;
     }
-
 
 
     .footer-nav-items {
