@@ -253,7 +253,9 @@ body {
     color: #818287;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1.3em;
-    padding: 10%
+    padding: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .further-informations-copyright {
@@ -273,7 +275,7 @@ body {
 .further-informations-links {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 13%;
+    margin-bottom: 30px;
 }
 
 .further-informations-links {
