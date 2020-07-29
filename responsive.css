@@ -1,4 +1,4 @@
-@media screen and (min-width: 718px) and (max-width: 959px) {
+@media screen and (min-width: 718px) and (max-width: 990px) {
     .restaurant-about-picture {
         width: 40vw;
     }
@@ -26,6 +26,7 @@
     #restaurant-portfolio {
         margin-top: 0%;
     }
+
 
     .footer-nav-items {
         display: flex;

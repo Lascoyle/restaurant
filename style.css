@@ -190,13 +190,15 @@ body {
     align-content: center;
 }
 
+
+
 #restaurant-portfolio {
-    margin-top: 20%;
+    margin-top: 45%;
+    display: flex;
 }
 
 .restaurant-portfolio-img {
-    display: block;
-    width: 100vw;
+    width: 33.333333%
 }
 
 .general-informations {
