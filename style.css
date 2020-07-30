@@ -86,9 +86,9 @@ body a:hover {
 }
 
 .restaurant-home-title {
-    font-size: 3em;
+    font-size: 4em;
+    margin-bottom: 4%;
     font-weight: 200;
-    margin-bottom: 5%;
 }
 
 .restaurant-home-description {
