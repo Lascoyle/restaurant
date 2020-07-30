@@ -16,6 +16,15 @@ body {
   font-size: 1.6rem;
 }
 
+body a {
+    text-decoration: none;
+    color: #ffffff
+}
+
+body a:hover {
+    text-decoration: none;
+    opacity: 0.5;
+}
 
 #restaurant-banner {
     background-image: url(assets/images/bg-banner.png);
@@ -246,6 +255,11 @@ body {
     list-style-type: none;
 }
 
+.footer-nav-subitem > a:hover {
+    color:  #ef4376;
+    opacity: 1;
+}
+
 .contact-icon, .contact-mentions {
     display: inline-block;
 }
@@ -289,6 +303,16 @@ body {
     list-style-type: none;
 }
 
+.further-informations-link > a{
+    color: #818287;
+    text-decoration: none;
+}
+
+.further-informations-link > a:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
 .further-informations-socialmedias {
     display: flex;
     justify-content: space-between;
@@ -298,6 +322,10 @@ body {
 
 .further-informations-socialmedia {
     display: block;
+}
+
+.further-informations-socialmedia:hover {
+    opacity: 0.5;
 }
 
 
